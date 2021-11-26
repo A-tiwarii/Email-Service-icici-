@@ -1,0 +1,30 @@
+<h1>Email-Service</h1>
+<div class="container">
+    <div class="wrapper animated bounceInLeft">
+      <div class="company-info">
+        <h3>User Interface For Email Service</h3>
+      </div>
+      <div class="contact">
+        <h3>Recivers Details:</h3>
+        {{msg}}
+        <form method="POST" action="send">        
+          <p>
+            <label>Recipient Email Address*</label>
+            <input type="email" name="email">
+          </p>
+          <p>
+            <label>Subject</label>
+            <input type="text" name="subject">
+          </p>  
+          <p class="full">
+            <label>Message*</label>
+            <textarea name="message" rows="5"></textarea>
+          </p>
+          <p class="full">
+            <button type="submit">Submit</button>
+          </p>
+        </form>
+      </div>
+    </div>
+  </div>
+  
