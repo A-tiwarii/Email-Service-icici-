@@ -2,12 +2,12 @@
     "primaryService" : {
         "host":"smtp.sendgrid.net",
         "user": "apikey", 
-        "pass": "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" 
+        "pass": "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" 
     },
     "secondaryService" : {
         "host":"smtp.mailgun.org",
-        "user": "postmaster@sandbox28d5e83f198246b3ab57e413eb725c43.mailgun.org", 
-        "pass": "76a9a4c842e97a3c571f65ce812c8cc3-adf6de59-3c268873"
+        "user": "postmaster@sandbox724b9e06be82463f98cd436908086bd8.mailgun.org", 
+        "pass": "dbd30fd782bd31b512f1c2f5ea27f71b-7dcc6512-915291fe"
     },
-    "email":"dkp.servicetest@outlook.com"
+    "email":"aman2.0@yahoo.com"
 }
